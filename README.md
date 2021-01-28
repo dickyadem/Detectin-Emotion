@@ -1,2 +1,2 @@
-# emotion_recognition
-Emotion Recognition implemented using pre-trained weights file - on Google Colab
+# Pengenalan emosi
+Pengenalan Emosi yang di implementasikan menggunakan weights file - di Google Colab
